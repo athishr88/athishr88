@@ -4,7 +4,7 @@ Hi 👋 My name is Athish Ram Das
 Deep Learning Engineer and Software Developer
 ---------------------------------------------
 
-Discovering my passion for coding and software development through an array of robotics projects during my Master's program at the University of Colorado Boulder, I developed a keen interest in image processing and deep learning. This initial fascination evolved into a comprehensive understanding of Computer Vision, Natural Language Processing, and Graph Neural Networks as I continued to diversify and deepen my expertise in the realm of deep learning.
+Discovered my passion for software development through an array of robotics projects during my Master's program at the University of Colorado Boulder, I developed a keen interest in image processing and deep learning. This initial fascination evolved into a comprehensive understanding of Computer Vision, Natural Language Processing, and Transformer Networks as I continued to diversify and deepen my expertise in the realm of deep learning.
 
 * 🖥️  See my portfolio at [Projects](http://sites.google.com/view/athish-ram-das/home)
 * ✉️  You can contact me at [athishr88@gmail.com](mailto:athishr88@gmail.com)
